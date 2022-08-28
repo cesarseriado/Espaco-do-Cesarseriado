@@ -1,0 +1,44 @@
+@charset "UTF-8";
+*{
+    margin: 0;
+    padding: 0;
+  box-sizing: border-box;
+    
+}
+body{
+    background-image: url("imagens/fundoarte2.jpg");
+
+}
+#apresenta{
+   
+    border:  1px solid white;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px;
+    width: 95vw;
+    height: 385px;
+}
+nav{
+    background-color: rgba(210, 105, 30, 0.37);
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px;
+    display:flex;
+    justify-content: center;
+   width: 20vw;
+   padding: 6px;
+}
+nav>a{
+   font-size: 23px;
+   color: white;
+   text-decoration: none;
+   font-family:'Oleo Script Swash Caps', cursive;
+   text-shadow: 2px 5px 6px black;
+}
+nav:hover{
+    background-color: rgba(243, 225, 212, 0.158);
+   
+}
+nav>a:hover{
+    color: rgb(217, 255, 0);
+}
