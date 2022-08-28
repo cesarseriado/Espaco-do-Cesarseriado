@@ -1,0 +1,155 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("imagens/fundo.jpg") ;
+    background-repeat:repeat;
+    background-size:auto;
+    
+}
+#imagem {
+    position: relative;
+    margin: auto;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 80vw;
+    height: 385px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+padding: 10px;
+display: flex;
+justify-content:space-around;
+color: white;
+font-size: 20px;
+text-shadow: 2px 5px 6px black;
+}
+#imagem{
+    margin-top: 20px;
+}
+#imagem{
+    text-align:center;
+}
+h1{
+    margin-top: 120px;
+}
+i#burger{
+    margin-top: 10px;
+    background-color: rgba(87, 107, 49, 0.041);
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+i#burger:hover{
+background-color: rgba(169, 206, 238, 0.041);
+color: rgb(255, 251, 0);
+cursor: pointer;
+}
+
+nav{
+    display: none;
+}
+nav > ul{
+    list-style: none;
+}
+nav > ul > li> a{
+    border-top: 1px solid yellowgreen;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 25px;
+    text-shadow: 2px 5px 6px black;
+}
+nav > ul > li> a:hover{
+    background-color: rgba(80, 58, 2, 0.555);
+    border-radius: 10px;
+}
+nav{
+    margin-top: 20px;
+}
+
+#seriado2{  
+ position: relative;
+        border: 1px solid white;
+        border-radius: 10px;
+        margin:auto;  
+        display: flex;
+        justify-content:space-around;
+    align-items: center;
+        width: 80vw; 
+        height: 380px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 14px;
+        color: white;
+        text-shadow: 2px 5px 6px black;
+        padding: 0px;
+}
+#seriado2{
+    margin-top: 20px;
+}
+#seriado3{  
+    position: relative;
+           border: 1px solid white;
+           border-radius: 10px;
+           margin:auto;  
+           display: flex;
+           justify-content:space-around;
+       align-items: center;
+           width: 80vw;   
+           height: 390px;
+       font-family: 'Oleo Script Swash Caps', cursive;
+       font-size: 14px;
+           color: white;
+           text-shadow: 2px 5px 6px black;
+           padding: 0px;
+   }
+   #seriado3{
+    margin-top: 20px;
+   }
+
+
+#imagem2{
+   position: relative;
+        margin-left:0px;
+        margin-top: 10px;
+   
+}
+
+#imagem3{
+    position: relative;
+         margin-left:10px;
+         margin-top: 0px;
+    
+ }
+
+#h2{ 
+width: 600px;
+height: 300px;
+       margin-top: -40px;
+       text-align: center; 
+}
+
+#h22{       
+width: 600px;
+height: 300px;    
+       margin-top: -30px;
+       text-align: center; 
+}
+p{ 
+   
+    padding: 10px;
+    color: white;
+    font-size: 16px;
+}
+
+
+
+
+
+

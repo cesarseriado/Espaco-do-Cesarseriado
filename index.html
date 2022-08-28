@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet">
+    <link rel="stylesheet" href="media_queries.css">
+    
+    <title>Espaço do Cesarseriado</title>
+</head>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Arima:wght@100&family=BhuTuka+Expanded+One&family=Knewave&display=swap');
+
+    </style>
+<body onresize="mudouTamanho()">
+
+    <header>
+        <div id="imagem">
+            <img src="imagens/fotosite.png"  alt="cesarseriado">
+            <h1>Espaço do Cesarseriado</h1>
+           
+        </div>
+        <i id="burger" class="material-icons" onclick="clickMenu()">menu</span>
+        </i>
+        <nav id="itens">   
+            <ul >
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Arte</a></li>
+                <li><a href="#">Música</a></li>
+                <li><a href="#">Poesia</a></li>
+            </ul>  
+           
+        </nav>
+    </header>
+
+    <main>
+<div id="seriado2">
+<img id="imagem2" src="imagens/capa tempo.png" width="250px" heigth="372px"  alt="Cesar Augusto">
+<div id="h2">
+    <h2>Quando Eu Era Músico</h2>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas beatae sint labore laudantium voluptates 
+        elit. Voluptas beatae sint labore laudantium voluptates 
+    </p>
+</div>
+</div>
+ <div id="seriado3">
+    <img id="imagem3" src="imagens/CAPA contos do seriado cópia.png" alt="contos do seriado">
+    <div id="h22">
+        <h2>Quando Eu Era Cartunista</h2>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas beatae sint labore laudantium    
+            elit. Voluptas beatae sint labore laudantium 
+        </p>
+    </div>
+
+ </div>
+
+    </main>
+    <footer></footer>
+
+    <script>
+
+        function mudouTamanho(){
+            if(window.innerWidth>=768){
+                itens.style.display='block'
+            }
+            else{
+                itens.style.display='none'
+            }
+        }
+
+        function clickMenu(){
+            if(itens.style.display=='block'){
+                itens.style.display='none'
+            }
+           else{
+                   itens.style.display='block'
+}
+        }
+    </script>
+</body>
+</html>
