@@ -19,6 +19,7 @@ body{
     width: 80vw;
     height: 385px;
     font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: Arial, Helvetica, sans-serif;
 padding: 10px;
 display: flex;
 justify-content:space-around;
@@ -63,6 +64,7 @@ nav > ul > li> a{
     padding: 10px;
     color: white;
     font-family: 'Oleo Script Swash Caps', cursive;
+    
     font-size: 25px;
     text-shadow: 2px 5px 6px black;
 }
@@ -85,6 +87,7 @@ nav{
         width: 80vw; 
         height: 380px;
     font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
         color: white;
         text-shadow: 2px 5px 6px black;
@@ -104,6 +107,7 @@ nav{
            width: 80vw;   
            height: 390px;
        font-family: 'Oleo Script Swash Caps', cursive;
+       font-family: Arial, Helvetica, sans-serif;
        font-size: 14px;
            color: white;
            text-shadow: 2px 5px 6px black;
