@@ -16,15 +16,14 @@ body{
     margin: auto;
     border: 1px solid white;
     border-radius: 10px;
-    width: 80vw;
+    width: 95vw;
     height: 385px;
     font-family: 'Oleo Script Swash Caps', cursive;
-    font-family: Arial, Helvetica, sans-serif;
 padding: 10px;
 display: flex;
 justify-content:space-around;
 color: white;
-font-size: 20px;
+font-size: 18px;
 text-shadow: 2px 5px 6px black;
 }
 #imagem{
@@ -63,8 +62,7 @@ nav > ul > li> a{
     text-decoration: none;
     padding: 10px;
     color: white;
-    font-family: 'Oleo Script Swash Caps', cursive;
-    
+    font-family: 'Oleo Script Swash Caps', cursive;  
     font-size: 25px;
     text-shadow: 2px 5px 6px black;
 }
@@ -84,11 +82,10 @@ nav{
         display: flex;
         justify-content:space-around;
     align-items: center;
-        width: 80vw; 
+        width: 95vw; 
         height: 380px;
     font-family: 'Oleo Script Swash Caps', cursive;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 14px;
+    font-size: 13px;
         color: white;
         text-shadow: 2px 5px 6px black;
         padding: 0px;
@@ -104,11 +101,10 @@ nav{
            display: flex;
            justify-content:space-around;
        align-items: center;
-           width: 80vw;   
+           width: 95vw;   
            height: 390px;
-       font-family: 'Oleo Script Swash Caps', cursive;
-       font-family: Arial, Helvetica, sans-serif;
-       font-size: 14px;
+       font-family: 'Oleo Script Swash Caps', cursive;     
+       font-size: 13px;
            color: white;
            text-shadow: 2px 5px 6px black;
            padding: 0px;
@@ -145,11 +141,10 @@ height: 300px;
        margin-top: -30px;
        text-align: center; 
 }
-p{ 
-   
+p{  
     padding: 10px;
     color: white;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 
