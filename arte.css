@@ -19,13 +19,27 @@ body{
     height: 500px;
 }
 #apresenta2{
+   
+   
    padding: 10px;
     border:  1px solid white;
     border-radius: 10px;
     margin: auto;
     margin-top: 10px;
     width: 95vw;
-    height:1980px;
+    height:1800px;
+}
+#im{
+    display:inline-block;
+    align-content: center;
+    margin: auto;
+   margin-top: 10px;
+   margin-left: 33px;
+}
+#im1{
+    margin: auto; 
+  margin-top: 10px;
+  margin-left: 33px;
 }
 nav{
     background-color: rgba(210, 105, 30, 0.37);
@@ -72,7 +86,7 @@ iframe{
     display: flex;
     justify-content: center;
     margin: auto;
-    width: 450px;
+    width: 410px;
     height: 450px;
     padding: 10px;
 }
