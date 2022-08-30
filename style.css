@@ -112,8 +112,25 @@ nav{
    #seriado3{
     margin-top: 20px;
    }
-
-
+   #seriado4{  
+    position: relative;
+           border: 1px solid white;
+           border-radius: 10px;
+           margin:auto;  
+           display: flex;
+           justify-content:space-around;
+       align-items: center;
+           width: 95vw;   
+           height: 260px;
+       font-family: 'Oleo Script Swash Caps', cursive;     
+       font-size: 13px;
+           color: white;
+           text-shadow: 2px 5px 6px black;
+           padding: 0px;
+   }
+   #seriado4{
+    margin-top: 20px;
+   }
 #imagem2{
    position: relative;
         margin-left:0px;
@@ -127,7 +144,12 @@ nav{
          margin-top: 0px;
     
  }
-
+#imagem4{
+    position: relative;
+    margin-left:10px;
+    margin-top: -50px;
+    margin-bottom: -50px;
+}
 #h2{ 
 width: 600px;
 height: 300px;
@@ -140,6 +162,12 @@ width: 600px;
 height: 300px;    
        margin-top: -30px;
        text-align: center; 
+}
+#hpoeta{
+    width: 600px;
+height: 300px; 
+    margin-top: 95px;
+    text-align: center; 
 }
 p{  
     padding: 10px;
