@@ -9,14 +9,23 @@ body{
     background-image: url("imagens/fundoarte2.jpg");
 
 }
-#apresenta{
+#apresenta1{
    
     border:  1px solid white;
     border-radius: 10px;
     margin: auto;
     margin-top: 10px;
     width: 95vw;
-    height: 385px;
+    height: 500px;
+}
+#apresenta2{
+   padding: 10px;
+    border:  1px solid white;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px;
+    width: 95vw;
+    height:1980px;
 }
 nav{
     background-color: rgba(210, 105, 30, 0.37);
@@ -41,4 +50,29 @@ nav:hover{
 }
 nav>a:hover{
     color: rgb(217, 255, 0);
+}
+#intro{
+    margin: auto;
+    padding: 10px;
+}
+h1{
+    font-family:'Oleo Script Swash Caps', cursive;
+    text-shadow: 2px 5px 6px black;
+    text-align: center;
+    color: yellow;
+}
+p{
+    font-family:'Oleo Script Swash Caps', cursive;
+    text-shadow: 2px 5px 6px black;
+    text-indent: 30px;
+    color: white;
+    text-align: justify;
+}
+iframe{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 450px;
+    height: 450px;
+    padding: 10px;
 }
