@@ -19,28 +19,20 @@ body{
     height: 500px;
 }
 #apresenta2{
-   
-   
    padding: 10px;
     border:  1px solid white;
     border-radius: 10px;
     margin: auto;
     margin-top: 10px;
     width: 95vw;
-    height:1800px;
+    height:1730px;
 }
-#im{
-    display:inline-block;
-    align-content: center;
-    margin: auto;
-   margin-top: 10px;
-   margin-left: 33px;
+#imag{
+    display: block;
+    align-items: center;
 }
-#im1{
-    margin: auto; 
-  margin-top: 10px;
-  margin-left: 33px;
-}
+
+
 nav{
     background-color: rgba(210, 105, 30, 0.37);
     border-radius: 10px;
