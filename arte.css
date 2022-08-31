@@ -19,6 +19,7 @@ body{
     height: 500px;
 }
 #apresenta2{
+    position: absolute;
    padding: 10px;
     border:  1px solid white;
     border-radius: 10px;
@@ -28,8 +29,11 @@ body{
     height:1730px;
 }
 #imag{
-    display: block;
-    align-items: center;
+  position: relative;
+  display:block;
+ margin-left: 25px;
+  padding: 10px;
+   
 }
 
 
