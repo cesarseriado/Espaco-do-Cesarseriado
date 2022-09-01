@@ -16,7 +16,31 @@ body{
     margin: auto;
     margin-top: 10px;
     width: 95vw;
-    height: 500px;
+    height: 535px;
+}
+#frame{
+    width: 290px;
+    height: 430px;
+    margin: auto;
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#a1{
+    display: block;
+    text-align: center;
+    font-family:'Oleo Script Swash Caps', cursive;
+    font-size: 17px;
+    text-shadow: 2px 5px 6px black;
+    color: yellow;
+    text-decoration: none;
+    background-color: rgba(20, 39, 1, 0.493);
+    border-radius: 10px; 
+}
+#a1:hover{
+    background-color: rgba(137, 191, 238, 0.089);
+    color: rgb(245, 245, 233);
+    font-size: 15px;
 }
 #apresenta2{
     position: relative;
@@ -103,7 +127,7 @@ a{
     display: block;
     text-align: center;
     font-family:'Oleo Script Swash Caps', cursive;
-    font-size: 15px;
+    font-size: 17px;
     text-shadow: 2px 5px 6px black;
     color: yellow;
     text-decoration: none;
@@ -113,7 +137,9 @@ a{
    
 }
 a:hover{
+    background-color: rgba(137, 191, 238, 0.089);
     color: rgb(245, 245, 233);
+    font-size: 15px;
 }
 p{
     font-family:'Oleo Script Swash Caps', cursive;
