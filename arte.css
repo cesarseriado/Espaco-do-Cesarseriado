@@ -26,12 +26,13 @@ body{
            margin-top: 10px;
            display: block;
            width: 95vw;   
-           height: 1870px;
+           height: 1760px;
        font-family: 'Oleo Script Swash Caps', cursive;     
        font-size: 13px;
            color: white;
            text-shadow: 2px 5px 6px black;
            padding: 0px;
+
 }
 #imagem1{
    position: relative;
@@ -52,14 +53,14 @@ body{
      margin: auto;
      margin-left:25px;
      margin-top: 20px;
-     margin-bottom: -50px;
+    
  }
- #imagem3{
+ #imagem4{
     position: relative;
      margin: auto;
      margin-left:25px;
      margin-top: 20px;
-     margin-bottom: -50px;
+    
  }
 nav{
     background-color: rgba(210, 105, 30, 0.37);
@@ -95,6 +96,24 @@ h1{
     text-shadow: 2px 5px 6px black;
     text-align: center;
     color: yellow;
+}
+
+a{
+   
+    display: block;
+    text-align: center;
+    font-family:'Oleo Script Swash Caps', cursive;
+    font-size: 15px;
+    text-shadow: 2px 5px 6px black;
+    color: yellow;
+    text-decoration: none;
+    background-color: rgba(20, 39, 1, 0.493);
+    border-radius: 10px;
+   
+   
+}
+a:hover{
+    color: rgb(245, 245, 233);
 }
 p{
     font-family:'Oleo Script Swash Caps', cursive;
