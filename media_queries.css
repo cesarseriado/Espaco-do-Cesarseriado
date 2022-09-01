@@ -45,26 +45,14 @@
     text-indent: 50px;
     text-align: justify;
   }
-  iframe{
-    width: 1000px;
-    height: 660px;
-  }
+
   #apresenta1{
-height: 750px;
+    width: 80vw;
+    height: 750px;
   }
   #apresenta2 {
-    margin-left: 27px;
-  width: 95vw;
+  width: 80vw;
   height: 650px;
   }
  
-  #imag{
-    display: flex;
-    justify-content: space-around;
-    margin: auto;
-    margin-top: 10px;
-  }
- 
-
-
 }
