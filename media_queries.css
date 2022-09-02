@@ -47,14 +47,15 @@
   }
 
   #apresenta1{
-    width: 80vw;
-    height: 750px;
+    padding: 20px;
+    width: 95vw;
+    height: 520px;
   }
-  #frame{
-    display: block;
-    margin: auto;
-    width: 860px;
-    height: 650px;
+  #h1contos{
+    margin-top: -20px;
+  }
+  img{
+    margin-top: 10px;
     margin-bottom: 20px;
   }
   #apresenta2 {
@@ -64,5 +65,17 @@
   }
  #apresenta2>a{
 margin-top: 10px;
+ }
+
+ #apresenta3 {
+  padding: 20px;
+ width: 95vw;
+ height: 1010px;
+ }
+ #img1{
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+
  }
 }
