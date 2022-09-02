@@ -73,9 +73,11 @@ margin-top: 10px;
  height: 1010px;
  }
  #img1{
-  display: block;
-  margin: auto;
+  padding: -10px;
+  display:inline-block;
+  margin-left: 230px;
   margin-top: 20px;
+  margin-bottom: 20px;
 
  }
 }
