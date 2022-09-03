@@ -9,6 +9,21 @@ body{
     background-image: url("imagens/fundoarte2.jpg");
 
 }
+
+#apresenta{
+    border:  1px solid white;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px;
+    width: 95vw; 
+    
+}
+#img3{
+    position:relative;
+    margin: auto;
+    margin-left:25px;
+    margin-bottom: 10px;
+}
 #apresenta1{
    
     border:  1px solid white;

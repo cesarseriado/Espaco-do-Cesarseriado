@@ -1,83 +1,112 @@
 @charset "UTF-8";
 
-@media screen and (min-width: 768px)
-{
-    i#burger{
-        display: none;
-    }
-      
-    nav{
-        display: block;
-    }
-    nav{
-      text-align: center;
-     
-     
-    }
-    nav>ul>li{
-        display: inline-block;
-        padding: 20px;
-    }
-    nav>ul>li>a{
-        font-size: 30px;
-    }
-  #imagem{
+@media screen and (min-width: 768px) {
+  i#burger {
+    display: none;
+  }
+
+  nav {
+    display: block;
+  }
+
+  nav {
+    text-align: center;
+
+
+  }
+
+  nav>ul>li {
+    display: inline-block;
+    padding: 20px;
+  }
+
+  nav>ul>li>a {
     font-size: 30px;
   }
-  #seriado2{
+
+  #imagem {
     font-size: 30px;
   }
-  #seriado3{
+
+  #seriado2 {
     font-size: 30px;
   }
-  #seriado4{
+
+  #seriado3 {
     font-size: 30px;
   }
-  p{
+
+  #seriado4 {
+    font-size: 30px;
+  }
+
+  p {
     font-size: 20px;
   }
-  #intro{
+
+  #intro {
     width: 80vw;
-   
+
   }
-  #intro>p{
+
+  #intro>p {
     font-size: 27px;
     text-indent: 50px;
     text-align: justify;
   }
 
-  #apresenta1{
+  #apresenta {
+    margin-top: 10px;
+    padding: 20px;
+    width: 95vw;
+  }
+
+  #apresenta1 {
     padding: 20px;
     width: 95vw;
     height: 520px;
   }
-  #h1contos{
+
+  #h1contos {
     margin-top: -20px;
   }
-  img{
+
+  img {
     margin-top: 10px;
     margin-bottom: 20px;
   }
+
   #apresenta2 {
-   padding: 20px;
-  width: 95vw;
-  height: 520px;
+    padding: 20px;
+    width: 95vw;
+    height: 520px;
   }
- #apresenta2>a{
-margin-top: 10px;
- }
 
- #apresenta3 {
-  padding: 20px;
- width: 95vw;
- height: 1010px;
- }
- #img1{
-  padding: -10px;
-  display:inline-block;
-  margin-left: 230px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  #apresenta2>a {
+    margin-top: 10px;
+  }
 
- }
+  #apresenta3 {
+    padding: 20px;
+    width: 95vw;
+    height: 1010px;
+  }
+
+  #img1 {
+    padding: -10px;
+    display: inline-block;
+    margin-left: 230px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  #img3 {
+    width: 231px;
+    height: 130px;
+    margin: auto;
+    margin-top: 15px;
+    display:inline-block;
+   padding: 0px;
+   margin-left: 65px;
+  }
 }
