@@ -1,0 +1,59 @@
+@charset "UTF-8";
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ body{
+background-image: url("imagens/fundomusica.jpg");
+ }
+h1{
+    color: white;
+    text-align: center;
+    text-shadow: 2px 5px 5px  black;
+    font-family:'Oleo Script Swash Caps', cursive;
+}
+p{
+    color: white;
+    text-shadow: 2px 4px  3px black; ;
+    text-align: justify;
+    text-indent: 30px;
+    padding: 10px;
+}
+h2{
+    margin-bottom: 20px;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 5px 5px  black;
+    font-family:'Oleo Script Swash Caps', cursive;
+}
+ .musica{
+   display: flex;
+   justify-content: space-around;
+    border:  2px solid white;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px;
+    width: 95vw; 
+    padding: 10px;
+ }
+ h2{
+    margin-bottom: 10px;
+ }
+ #audio1{
+   
+    padding: 5px;
+    width: 210px;
+    height: 260px;
+    border: 1px solid yellow;
+    border-radius: 10px;
+ }
+ #audio1>img{
+margin-bottom: -20px;
+ }
+ #audio1>h3{
+    color: yellow;
+    text-shadow: 2px 5px 5px  black;
+    font-family:'Oleo Script Swash Caps', cursive;
+    text-align:center;
+ }
