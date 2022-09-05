@@ -109,4 +109,88 @@
    padding: 0px;
    margin-left: 65px;
   }
+
+  .musica{   
+    display: flex;
+    justify-content: space-around;
+     border:  2px solid rgba(255, 255, 255, 0.062);
+     border-radius: 10px;     
+     margin-top: 10px;
+     width: 85vw;
+     padding: 10px;
+     height: 300px;    
+  }
+
+
+  .musica2{
+   
+    display: flex;
+    justify-content:space-around;
+     border:  2px solid rgba(255, 255, 255, 0.034);
+     border-radius: 10px;  
+     margin-top:-40px;
+    margin-left: 100px;
+     width: 85vw; 
+     padding: 10px;
+     height: 300px;    
+  }
+
+
+.musica3{
+   
+  display: flex;
+  justify-content:space-around;
+   border:  2px solid rgba(255, 255, 255, 0.055);
+   border-radius: 10px;  
+   margin-top:-40px;
+  margin-left: 100px;
+   width: 85vw; 
+   padding: 10px;
+   height: 300px;    
+}
+
+.musica4{ 
+  display: flex;
+  justify-content:space-around;
+   border:  2px solid rgba(255, 255, 255, 0.041);
+   border-radius: 10px;  
+   margin-top:-40px;
+  margin-left: 100px;
+   width: 85vw; 
+   padding: 10px;
+   height: 300px;    
+}
+.musica5{ 
+  display: flex;
+  justify-content:space-around;
+   border:  2px solid rgba(255, 255, 255, 0.055);
+   border-radius: 10px;  
+   margin-top:-40px;
+  margin-left: 100px;
+   width: 85vw; 
+   padding: 10px;
+   height: 300px;    
+}
+.musica6{ 
+  display: flex;
+  justify-content:space-around;
+   border:  2px solid rgba(255, 255, 255, 0.062);
+   border-radius: 10px;  
+   margin-top:-40px;
+  margin-left: 100px;
+   width: 85vw; 
+   padding: 10px;
+   height: 300px;    
+}
+.musica7{ 
+  display: flex;
+  justify-content:space-around;
+   border:  2px solid rgba(255, 255, 255, 0.048);
+   border-radius: 10px;  
+   margin-top:-40px;
+  margin-left: 100px;
+   width: 85vw; 
+   padding: 10px;
+   height: 300px;    
+}
 }

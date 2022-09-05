@@ -28,32 +28,193 @@ h2{
     font-family:'Oleo Script Swash Caps', cursive;
 }
  .musica{
-   display: flex;
-   justify-content: space-around;
-    border:  2px solid white;
+  
+   display:flex;
+   justify-items: center;
+    border:  2px solid rgba(255, 255, 255, 0.055);
     border-radius: 10px;
     margin: auto;
     margin-top: 10px;
+    margin-bottom: 50px;
     width: 95vw; 
-    padding: 10px;
+    padding: 15px;
+    height: 300px;
  }
+ 
  h2{
     margin-bottom: 10px;
  }
  #audio1{
-   
     padding: 5px;
     width: 210px;
     height: 260px;
     border: 1px solid yellow;
     border-radius: 10px;
  }
+#sol{
+  margin-top: -10px;
+  
+}
+#h3sol{
+   font-size-adjust: unset;
+   margin-bottom: -5px;
+   margin-top: -10px;
+   padding: -10px;
+}
+ #audio2{
+   padding: 5px;
+   width: 210px;
+   height: 260px;
+   border: 1px solid yellow;
+   border-radius: 10px;
+}
  #audio1>img{
 margin-bottom: -20px;
  }
+ #audio2>img{
+   margin-bottom: -20px;
+    }
  #audio1>h3{
     color: yellow;
     text-shadow: 2px 5px 5px  black;
     font-family:'Oleo Script Swash Caps', cursive;
     text-align:center;
+ }
+ #audio2>h3{
+   color: yellow;
+   text-shadow: 2px 5px 5px  black;
+   font-family:'Oleo Script Swash Caps', cursive;
+   text-align:center;
+}
+
+
+.musica2{
+  
+   display:flex;
+   justify-items: center;
+    border:  2px solid rgba(255, 255, 255, 0.068);
+    border-radius: 10px;
+    margin-left: 7px;
+    margin-right: -200px;
+    margin-top: -40px;
+    margin-bottom: 50px;
+    width: 95vw; 
+    height: 300px;
+    padding: 15px;
+ }
+
+ .musica3{
+  
+   display:flex;
+   justify-items: center;
+    border:  2px solid rgba(255, 255, 255, 0.062);
+    border-radius: 10px;
+    margin-left: 8px;
+    margin-right: 200px;
+    margin-top: -40px;
+    margin-bottom: 50px;
+    width: 95vw; 
+    height: 300px;
+    padding: 15px;
+ }
+ #terra{
+  margin-top: -25px;
+ }
+ #voltar{
+   
+   margin-top: -10px;
+ }
+ .musica4{
+  
+   display:flex;
+   justify-items: center;
+    border:  2px solid rgba(255, 255, 255, 0.055);
+    border-radius: 10px;
+    margin-left: 8px;
+    margin-right: 200px;
+    margin-top: -40px;
+    margin-bottom: 50px;
+    width: 95vw; 
+    height: 300px;
+    padding: 15px;
+ }
+ #tempo{
+  margin-top: -8px;
+ }
+ #temp{
+margin-bottom: 8px;
+ }
+ .musica5{
+   display:flex;
+   justify-items: center;
+    border:  2px solid rgba(255, 255, 255, 0.062);
+    border-radius: 10px;
+    margin-left: 8px;
+    margin-right: 200px;
+    margin-top: -40px;
+    margin-bottom: 50px;
+    width: 95vw; 
+    height: 300px;
+    padding: 15px;
+ }
+ .musica6{
+   display:flex;
+   justify-items: center;
+    border:  2px solid rgba(255, 255, 255, 0.048);
+    border-radius: 10px;
+    margin-left: 8px;
+    margin-right: 200px;
+    margin-top: -40px;
+    margin-bottom: 50px;
+    width: 95vw; 
+    height: 300px;
+    padding: 15px;
+ }
+ .musica7{
+   display:flex;
+   justify-items: center;
+    border:  2px solid rgba(255, 255, 255, 0.055);
+    border-radius: 10px;
+    margin-left: 8px;
+    margin-right: 200px;
+    margin-top: -40px;
+    margin-bottom: 50px;
+    width: 95vw; 
+    height: 300px;
+    padding: 15px;
+ }
+ #sempre{
+   line-height:100%;
+   margin-top: -5px;
+   margin-bottom: 5px;
+ }
+ #caminho{
+   margin-top: 2px;
+   margin-left: -1px;
+  
+ }
+ #amor{
+   margin-top: -3px;
+ }
+ #pax{
+   margin-top: 7px;
+ }
+ #ref{
+   margin-top: 3px;
+ }
+ #rodape,a{
+   margin-top: -40px;
+   text-align: center;
+   color:yellow;
+   text-decoration: none;
+   font-size: 25px;
+   padding: 10px;
+   text-shadow: 2px 5px 2px  black;
+   font-family:'Oleo Script Swash Caps', cursive;
+   font-weight: bolder;
+ }
+ a:hover{
+   color: beige;
+   font-size: 22px;
+   text-decoration: overline;
  }
