@@ -7,15 +7,25 @@
  body{
 background-image: url("imagens/fundomusica.jpg");
  }
-
  #intromusica{
-   
    width: 85vw;
    margin: auto;
  }
 
+#home{
+  display: block;
+  align-items: center;
+  background-color: rgba(208, 255, 0, 0.075);
+  border-radius:10px;
+  margin: auto;
+  width: 85vw;
+  color: yellow;
+  text-shadow: 2px 5px 5px  black;
+  font-family:'Oleo Script Swash Caps', cursive;
+  font-size: 15px;
+}
+
  #titulo{
-  
    width: 85vw;
    margin: auto;
  }
