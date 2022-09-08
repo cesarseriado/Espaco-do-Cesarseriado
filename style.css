@@ -121,7 +121,7 @@ nav{
            justify-content:space-around;
        align-items: center;
            width: 95vw;   
-           height: 260px;
+           height: 300px;
        font-family: 'Oleo Script Swash Caps', cursive;     
        font-size: 13px;
            color: white;
@@ -185,9 +185,9 @@ p{
     width: 95vw;
    
 }
-#som>audio{
-  height: 20px;
- 
+
+#poeta{
+    margin-top: -10px;
 }
 
 
