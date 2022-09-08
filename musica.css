@@ -8,6 +8,8 @@
 background-image: url("imagens/fundomusica.jpg");
  }
  #intromusica{
+  text-shadow: 2px 5px 5px  black;
+  font-family:'Oleo Script Swash Caps', cursive;
    width: 85vw;
    margin: auto;
  }

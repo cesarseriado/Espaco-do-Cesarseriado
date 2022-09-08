@@ -30,10 +30,14 @@
 
   #seriado2 {
     font-size: 30px;
+    height: 390px;
+    margin-bottom: -20px;
+   
   }
 
   #seriado3 {
     font-size: 30px;
+  margin-top: 60px;
   }
 
   #seriado4 {
@@ -120,7 +124,9 @@
      padding: 10px;
      height: 300px;    
   }
-
+#imagem2{
+  margin-bottom: -10px;
+}
 
   .musica2{
    
@@ -196,4 +202,6 @@
 #rodape{
   margin-left: 100px;
 }
+
+
 }
