@@ -34,13 +34,16 @@ a{
     text-decoration: none;
     font-size: 25px;
     text-shadow: 2px 5px 6px black;
+  
 }
 a:hover{
+   
     color: rgba(255, 255, 0, 0.788);
     font-size: 20px;
     font-family:'Oleo Script Swash Caps', cursive;
     text-shadow: 2px 5px 6px black; 
 }
+
 p{
     border: 1px solid yellow;
     border-radius: 10px;
@@ -57,7 +60,7 @@ p{
 
 #triste{
     background-color: rgba(128, 255, 0, 0.089);
-   box-shadow:0px 0px 10px white;
+   box-shadow:0px 0px 15px 8px rgba(153, 205, 50, 0.849);
     border-radius: 10px;
     padding: 10px;
     text-align: left;
@@ -73,7 +76,7 @@ p{
 }
 #tempo{
     background-color: rgba(128, 255, 0, 0.055);
-    box-shadow:0px 0px 10px white;
+    box-shadow:0px 0px 10px 8px rgba(255, 196, 0, 0.836);
      border-radius: 10px;
      padding: 10px;
      text-align: left;
@@ -89,7 +92,7 @@ p{
 }
 #poeta{
     background-color: rgba(128, 255, 0, 0.055);
-    box-shadow:0px 0px 10px white;
+    box-shadow:0px 0px 10px 8px rgba(172, 255, 47, 0.877);
      border-radius: 10px;
      padding: 10px;
      text-align: left;
@@ -105,7 +108,7 @@ p{
 }
 #serfeliz{
     background-color: rgba(128, 255, 0, 0.055);
-    box-shadow:0px 0px 10px white;
+    box-shadow:0px 0px 10px 7px rgba(255, 255, 255, 0.726);
      border-radius: 10px;
      padding: 10px;
      text-align: left;
@@ -121,7 +124,7 @@ p{
 }
 #beleza{
     background-color: rgba(128, 255, 0, 0.055);
-    box-shadow:0px 0px 10px white;
+    box-shadow:0px 0px 10px 7px rgba(188, 143, 143, 0.842);
      border-radius: 10px;
      padding: 10px;
      text-align: left;
@@ -138,7 +141,7 @@ p{
 }
 #nos{
     background-color: rgba(128, 255, 0, 0.055);
-    box-shadow:0px 0px 10px white;
+    box-shadow:0px 0px 10px 7px rgba(0, 174, 255, 0.863);
      border-radius: 10px;
      padding: 10px;
      text-align: left;
