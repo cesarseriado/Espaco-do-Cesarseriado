@@ -232,6 +232,26 @@ margin-bottom: 8px;
  #ref{
    margin-top: 3px;
  }
+
+ .musica8{
+  display:flex;
+  justify-items: center;
+   border:  2px solid rgba(255, 255, 255, 0.055);
+   border-radius: 10px;
+   margin-left: 8px;
+   margin-right: 200px;
+   margin-top: -40px;
+   margin-bottom: 50px;
+   width: 95vw; 
+   height: 300px;
+   padding: 15px;
+}
+#audiomulher{
+  margin-top:3px ;
+}
+#tipo{
+  margin-top:18px ;
+}
  #rodape{
    border-radius: 10px;
    margin: auto;
